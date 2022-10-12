@@ -10,7 +10,7 @@ const RouteSwitch = () => {
  
   return (
     <CartProvider>
-      <BrowserRouter>
+      <BrowserRouter basename='/'>
      <Nav />
       <Routes>
         <Route path='/' element={<Home />} />
