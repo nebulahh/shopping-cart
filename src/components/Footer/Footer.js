@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Nav/Nav.css'
+// import '../Nav/Nav.css'
 
 function Footer() {
   return (
