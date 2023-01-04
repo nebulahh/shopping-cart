@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.e61d0bf1.css",
+    "main.js": "/shopping-cart/static/js/main.7b04370a.js",
+    "static/media/chef.jpg": "/shopping-cart/static/media/chef.5116fc5aa900c5375553.jpg",
+    "static/media/store.webp": "/shopping-cart/static/media/store.0d3a142a533f9572b87e.webp",
+    "static/media/food-7.jpg": "/shopping-cart/static/media/food-7.04596777525a7c9ba067.jpg",
+    "static/media/food-3.jpg": "/shopping-cart/static/media/food-3.57532d0f3cb93d0862b3.jpg",
+    "static/media/food-2.jpg": "/shopping-cart/static/media/food-2.06673f2a80a4a15945ad.jpg",
+    "static/media/food-4.jpg": "/shopping-cart/static/media/food-4.a5e7b76e5fa5ce2b4e24.jpg",
+    "static/media/food-1.jpg": "/shopping-cart/static/media/food-1.a797e41b45842be5bb3a.jpg",
+    "static/media/food-5.jpg": "/shopping-cart/static/media/food-5.221598ec9b6667c85651.jpg",
+    "static/media/food-8.jpg": "/shopping-cart/static/media/food-8.e7f0d14eb79255a262d4.jpg",
+    "static/media/food-0.jpg": "/shopping-cart/static/media/food-0.bd950d3c61c4958a7bd4.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.e61d0bf1.css.map": "/shopping-cart/static/css/main.e61d0bf1.css.map",
+    "main.7b04370a.js.map": "/shopping-cart/static/js/main.7b04370a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61d0bf1.css",
+    "static/js/main.7b04370a.js"
+  ]
+}
